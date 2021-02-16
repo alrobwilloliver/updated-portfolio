@@ -2,6 +2,8 @@ import React from "react"
 import Fade from "react-reveal/Fade"
 import data from "../yourdata"
 
+import CV from "../ALAN_OLIVER-CV.pdf"
+
 const Header = () => {
   return (
     <div className="section" id="home">
@@ -41,12 +43,11 @@ const Header = () => {
           </Fade>
           <Fade bottom>
             <a
-              href={`mailto:${
-                data.contactEmail ? data.contactEmail : "hello@chetanverma.com"
-              }`}
+              href={CV}
+              download="Alan-Oliver-CV.pdf"
               className="primary-btn"
             >
-              CONNECT WITH ME
+              Download CV
             </a>
           </Fade>
         </div>
