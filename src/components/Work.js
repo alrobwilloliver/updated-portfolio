@@ -22,6 +22,7 @@ const Work = () => {
                   paragraph={project.para}
                   imgUrl={project.imageSrc}
                   projectLink={project.url}
+                  codeLink={project.codeLink}
                 ></Card>
               ))}
             </Fade>

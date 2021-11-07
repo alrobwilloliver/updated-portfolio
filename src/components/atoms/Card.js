@@ -1,6 +1,6 @@
 import React from "react"
 
-const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
+const Card = ({ heading, paragraph, imgUrl, projectLink, codeLink }) => {
   return (
     <div
       className="card"
@@ -22,6 +22,19 @@ const Card = ({ heading, paragraph, imgUrl, projectLink }) => {
         >
           Explore &#8680;
         </a>
+        <div style={{padding: "10px"}}/>
+        {codeLink ? 
+        <a
+          href={codeLink}
+          target="_blank"
+          rel="noopener noreferrer"
+          className="btn"
+        >
+          Code &#8680;
+        </a>
+          : 
+        <div/>
+        }
       </div>
     </div>
   )

@@ -34,7 +34,7 @@ export default {
   ],
   //   Header Paragraph
   headerParagraph:
-    "Junior Developer at New Verve Consulting.",
+    "Junior Software Engineer at Cudo Ventures.",
 
   //Contact Email
   contactEmail: "alrobwilloliver@gmail.com",
@@ -44,10 +44,18 @@ export default {
   // Work Section ------------------------
   projects: [
     {
+      id: 0,
+      title: "AILO",
+      para: "This is my teaching content platform which gives former and prospective students an easy access way to my teaching content.",
+      imageSrc: "https://media.giphy.com/media/JqHLZr2yQn4vew6l0P/giphy.gif",
+      url: "https://ailearningonline.herokuapp.com",
+      codeLink: "https://github.com/alrobwilloliver/englishLearningOnline"
+    },
+    {
       id: 1,
       title: "Crumbs", //Project Title
       para:
-        "Customer Relationship Management application which I designed this advanced filtering component for customers in the premium version of the product. I learned about handling React state, React Hooks and data filtering.",
+        "I worked for New Verve Consulting, building a Customer Relationship Management application in which I designed this advanced filtering component for customers in the premium version of the product. I learned about handling React state, React Hooks and data filtering.",
       //Project Image
       imageSrc:
         crumbs,
@@ -64,6 +72,7 @@ export default {
         "https://media.giphy.com/media/L06PhxtpwuSwxGWUdB/giphy.gif",
       //Project URL
       url: "https://moredealsourcing.herokuapp.com",
+      codeLink: "https://github.com/alrobwilloliver/more-deal-sourcing-node-landing-page"
     },
     {
       id: 3,
@@ -75,6 +84,7 @@ export default {
         "https://media.giphy.com/media/lRLa21bv1BBtnmvyFV/giphy.gif",
       //Project URL
       url: "https://playmysnake.herokuapp.com/",
+      codeLink: "https://github.com/alrobwilloliver/snakeJavascript",
     },
 
     /*
@@ -93,11 +103,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-  "My name is Alan. I'm a logical person who loves learning and growing, and so in 2019 I decided to commit to developing skills in tech by joining a coding bootcamp with Le Wagon, Chengdu. What I love about learning code is realising the power I have to create and bring ideas into reality. In 2020 I joined New Verve Consulting as a Junior Developer working on the Products Team developing applications for the Atlassian Marketplace.",
+  "My name is Alan. I'm a logical person who loves learning and growing, and so in 2019 I decided to commit to developing skills in tech by joining a coding bootcamp with Le Wagon, Chengdu. What I love about learning code is realising the power I have to create and bring ideas into reality. In 2021 I joined Cudo Ventures as a Junior Software Engineer maintaining and developing features for their crypto mining platform.",
   aboutParaTwo:
-  "At university I studied politics and was always interested in international development after charitable and business projects I completed in Kenya, 2012 and 2015. Those experiences even inspired me to invest in sustainable farming for rural farmers. I and my partner's sugar cane venture has proven to be quite successful, raising £3000 in net profit. In 2021 we aim to move into a tree farming business.",
-  aboutParaThree:
   "I've lived in China for 4 years as an English teacher. In one of those years I was lucky enough to get a scholarship to study Chinese Mandarin with the British Council. The ability to live in China while being able to really connect with local people and interact with Chinese speakers has greatly shaped my international perspective and understanding of the world.",
+  aboutParaThree:
+  "I still consider myself an educator, and have build my own platform aiLearningOnline to help former and prospective students to easily access my teaching content.",
   aboutImage:
     myImage,
 
@@ -150,9 +160,9 @@ export default {
 
   //   Promotion Section --------------------------
 
-  promotionHeading: "Heading",
+  promotionHeading: "Summing Me Up",
   promotionPara:
-    "I'm a full stack developer and ardent learner who is usually spending time building applications, trading cryptocurrencies and researching precious metals investing. I also enjoy speaking Mandarin Chinese to build on my language abilities obtained when I lived in China.",
+    "I'm a full stack developer and ardent learner who is usually spending time building applications, researching precious metals investing and watching Newcastle United. I also enjoy speaking Mandarin Chinese to build on my language abilities obtained when I lived in China.",
   // End Promotion Section -----------------
 
   //   Contact Section --------------
