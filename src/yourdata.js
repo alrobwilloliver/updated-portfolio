@@ -93,11 +93,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-    "My name is Alan. I've lived in China for 4 years as an English teacher. In one of those years I was lucky enough to get a scholarship to study Chinese Mandarin with the British Council. The ability to live in China while being able to really connect with local people and interact with Chinese speakers has greatly shaped my international perspective and understanding of the world.",
+  "My name is Alan. I'm a logical person who loves learning and growing, and so in 2019 I decided to commit to developing skills in tech by joining a coding bootcamp with Le Wagon, Chengdu. What I love about learning code is realising the power I have to create and bring ideas into reality. In 2020 I joined New Verve Consulting as a Junior Developer working on the Products Team developing applications for the Atlassian Marketplace.",
   aboutParaTwo:
-    "At university I studied politics and was always interested in international development after charitable and business projects I completed in Kenya, 2012 and 2015. Those experiences even inspired me to invest in sustainable farming for rural farmers. I and my partner's sugar cane venture has proven to be quite successful, raising £3000 in net profit. In 2021 we aim to move into a tree farming business.",
+  "At university I studied politics and was always interested in international development after charitable and business projects I completed in Kenya, 2012 and 2015. Those experiences even inspired me to invest in sustainable farming for rural farmers. I and my partner's sugar cane venture has proven to be quite successful, raising £3000 in net profit. In 2021 we aim to move into a tree farming business.",
   aboutParaThree:
-    "I'm a logical person who loves learning and growing, and so in 2019 I decided to commit to developing skills in tech by joining a coding bootcamp with Le Wagon, Chengdu. What I love about learning code is realising the power I have to create and bring ideas into reality. In 2020 I joined New Verve Consulting as a Junior Developer working on the Products Team developing applications for the Atlassian Marketplace.",
+  "I've lived in China for 4 years as an English teacher. In one of those years I was lucky enough to get a scholarship to study Chinese Mandarin with the British Council. The ability to live in China while being able to really connect with local people and interact with Chinese speakers has greatly shaped my international perspective and understanding of the world.",
   aboutImage:
     myImage,
 
