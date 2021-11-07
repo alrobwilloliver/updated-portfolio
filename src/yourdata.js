@@ -107,7 +107,7 @@ export default {
   aboutParaTwo:
   "I've lived in China for 4 years as an English teacher. In one of those years I was lucky enough to get a scholarship to study Chinese Mandarin with the British Council. The ability to live in China while being able to really connect with local people and interact with Chinese speakers has greatly shaped my international perspective and understanding of the world.",
   aboutParaThree:
-  "I still consider myself an educator, and have build my own platform aiLearningOnline to help former and prospective students to easily access my teaching content.",
+  "I still consider myself an educator, and have built my own platform aiLearningOnline to help former and prospective students to easily access my teaching content.",
   aboutImage:
     myImage,
 
