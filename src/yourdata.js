@@ -1,10 +1,10 @@
 // Skills Icons
-import htmlIcon from "./images/html.svg"
+import goIcon from "./images/gopher.svg"
 import cssIcon from "./images/css.svg"
-import reactIcon from "./images/react.svg"
+import vueJs from "./images/vuejs.png"
 import jsIcon from "./images/javascript.svg"
 import nodejsIcon from "./images/Nodejs_logo.png"
-import mongoDb from "./images/mongodb.png"
+import postgresql from "./images/postgresql.png"
 
 // Social Icon
 import githubIcon from "./images/github.svg"
@@ -103,11 +103,11 @@ export default {
 
   // About Secton --------------
   aboutParaOne:
-  "My name is Alan. I'm a logical person who loves learning and growing, and so in 2019 I decided to commit to developing skills in tech by joining a coding bootcamp with Le Wagon, Chengdu. What I love about learning code is realising the power I have to create and bring ideas into reality. In 2021 I joined Cudo Ventures as a Junior Software Engineer maintaining and developing features for their crypto mining platform.",
+  "My name is Alan. I'm a software engineer with a passion for developing and building user focused software solutions using test driven development principles.",
   aboutParaTwo:
-  "I've lived in China for 4 years as an English teacher. In one of those years I was lucky enough to get a scholarship to study Chinese Mandarin with the British Council. The ability to live in China while being able to really connect with local people and interact with Chinese speakers has greatly shaped my international perspective and understanding of the world.",
+  "In one of my first software engineering roles with Cudo Ventures I worked on helping to configure and independently maintain a gamer crypto mining tenent on the front and back end in Javascript, contributed to developing a Crypto Liquidity Exchange microservice to ease exchange risk in Golang and Javascript, and collaborated in building and maintaining a software testing suite for the Compute Virtual Machine marketplace in Golang.",
   aboutParaThree:
-  "I still consider myself an educator, and have built my own platform aiLearningOnline to help former and prospective students to easily access my teaching content.",
+  "I have an international perspective having lived in China for over 3 years prior to working in software with an interest in politics and economics.",
   aboutImage:
     myImage,
 
@@ -120,9 +120,9 @@ export default {
   skills: [
     {
       id: 1,
-      img: htmlIcon,
+      img: goIcon,
       para:
-        "I have knowledge in HTML5, the markup language of the internet",
+        "I have professional experience in Go, particularly in native Go testing.",
     },
     {
       id: 2,
@@ -134,13 +134,13 @@ export default {
       id: 3,
       img: jsIcon,
       para:
-        "I have good experience in JavaScript ES6 and have developed most of my projects using this coding language.",
+        "I have good experience in JavaScript ES6 and have developed most of my personal projects using this coding language.",
     },
     {
       id: 4,
-      img: reactIcon,
+      img: vueJs,
       para:
-        "I have knowledge in the JavaScript front end framework React JS.",
+        "I have knowledge in the JavaScript front end framework Vue JS.",
     },
     {
       id: 5,
@@ -150,9 +150,9 @@ export default {
     },
     {
       id: 6,
-      img: mongoDb,
+      img: postgresql,
       para:
-        "I have knowledge in MongoDB for my database storage.",
+        "I have knowledge in Postgresql databases.",
     },
   ],
 
