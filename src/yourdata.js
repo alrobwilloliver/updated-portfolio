@@ -84,7 +84,7 @@ export default {
         "https://media.giphy.com/media/lRLa21bv1BBtnmvyFV/giphy.gif",
       //Project URL
       url: "https://playmysnake.herokuapp.com/",
-      codeLink: "https://github.com/alrobwilloliver/snakeJavascript",
+      codeLink: "https://github.com/alrobwilloliver/snakeTypeScript",
     },
 
     /*
