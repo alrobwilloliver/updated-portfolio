@@ -26,15 +26,15 @@ export default {
   name: "Alan",
   headerTagline: [
     //Line 1 For Header
-    "Building digital",
+    "Building and testing",
     //Line 2 For Header
-    "applications, webpages,",
+    "digital applications",
     //Line 3 For Header
-    "and experiences",
+    "and APIs",
   ],
   //   Header Paragraph
   headerParagraph:
-    "Junior Software Engineer at Cudo Ventures.",
+    "Software Engineer.",
 
   //Contact Email
   contactEmail: "alrobwilloliver@gmail.com",
@@ -46,7 +46,7 @@ export default {
     {
       id: 0,
       title: "AILO",
-      para: "This is my teaching content platform which gives former and prospective students an easy access way to my teaching content.",
+      para: "This is my teaching content platform which gives former and prospective students a way to access my teaching content.",
       imageSrc: "https://media.giphy.com/media/JqHLZr2yQn4vew6l0P/giphy.gif",
       url: "https://ailearningonline.herokuapp.com",
       codeLink: "https://github.com/alrobwilloliver/englishLearningOnline"
@@ -76,15 +76,25 @@ export default {
     },
     {
       id: 3,
-      title: "Snake Game with Score Leaderboard", //Project Title
+      title: "Cudo Miner", //Project Title
       para:
-        "A classic snake game which I developed from an online tutorial adding a leaderboard and scores with a basic API. I learned JavaScript modular code, fetch post requests and using Express middleware.",
+        "I worked for Cudo Ventures, building a crypto mining platform for gamers. I learned about handling Vue JS and the Loopback ORM.",
       //Project Image
       imageSrc:
-        "https://media.giphy.com/media/lRLa21bv1BBtnmvyFV/giphy.gif",
+        "https://media.giphy.com/media/lsDMC8E2yHtJhpZqpR/giphy.gif",
       //Project URL
-      url: "https://playmysnake.herokuapp.com/",
-      codeLink: "https://github.com/alrobwilloliver/snakeTypeScript",
+      url: "console.cudominer.com",
+    },
+    {
+      id: 4,
+      title: "Cudo Compute", //Project Title
+      para:
+        "I worked for Cudo Ventures, building a cloud computing platform to allow vendors to sell their compute power to customers. I learned about Go microservices and native Go testing.",
+      imageSrc:
+        "https://media.giphy.com/media/zmmG2n5sk7OiNoB30Q/giphy.gif",
+      //Project URL
+      url: "https://console.cudominer.com",
+      codeLink: "https://github.com/alrobwilloliver/biller"
     },
 
     /*
@@ -105,7 +115,7 @@ export default {
   aboutParaOne:
   "My name is Alan. I'm a software engineer with a passion for developing and building user focused software solutions using test driven development principles.",
   aboutParaTwo:
-  "In one of my first software engineering roles with Cudo Ventures I worked on helping to configure and independently maintain a gamer crypto mining tenent on the front and back end in Javascript, contributed to developing a Crypto Liquidity Exchange microservice to ease exchange risk in Golang and Javascript, and collaborated in building and maintaining a software testing suite for the Compute Virtual Machine marketplace in Golang.",
+  "In a previous engineering role with Cudo Ventures I worked on helping to configure and independently maintain a gamer crypto mining tenent on the front and back end in Javascript, contributed to developing a Crypto Liquidity Exchange microservice to ease exchange risk in Golang and Javascript, and collaborated in building and maintaining a software testing suite for the Compute Virtual Machine marketplace in Golang.",
   aboutParaThree:
   "I have an international perspective having lived in China for over 3 years prior to working in software with an interest in politics and economics.",
   aboutImage:
@@ -134,7 +144,7 @@ export default {
       id: 3,
       img: jsIcon,
       para:
-        "I have good experience in JavaScript ES6 and have developed most of my personal projects using this coding language.",
+        "I have good experience in JavaScript ES6.",
     },
     {
       id: 4,
